@@ -4,3 +4,10 @@ When would you want to crete a remote repository rather than keep all yur work l
 
 
 Why might you want to always pull changes manually rather than having GIT automatically stay up-to-date with your remote repository??
+
+
+
+Describe the differences between forks, clones, and branches.  WHen would  you ise oneinstead of another?
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
